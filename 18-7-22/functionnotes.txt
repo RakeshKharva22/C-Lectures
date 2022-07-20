@@ -19,6 +19,15 @@
 	  if above then it is optional.
 
 
+	Function Categories: 3 Categories
+
+	1) No-return type and no parameter
+	2) No-return type but with parameter
+	3) return type and with parameter
+	
+	
+
+
 		
 
 			
