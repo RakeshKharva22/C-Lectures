@@ -1,0 +1,24 @@
+
+	
+	Function : It is a piece of code which performs a specfic task.
+
+	Function 2 Types: 1) Pre-Defined Function
+			
+				e.g 1)printf() 2) scanf(),etc
+
+			  2) User Defined Function
+				
+				A function which user create's.
+
+	How to Use Function.
+
+
+	1) Create a Function/ Defined a Function.
+	2) Use a Function.
+	3)If function created below main, then declaration is compulsory else 
+	  if above then it is optional.
+
+
+		
+
+			
